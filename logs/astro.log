@@ -1,0 +1,222 @@
+{"message":"Server running in undefined mode at port: 8080","level":"info","timestamp":"2018-10-08T14:37:12.235Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:37:27.223Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:37:30.961Z"}
+{"message":"404 - Not Found - /report - GET - 127.0.0.1","level":"error","timestamp":"2018-10-08T14:38:37.998Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:39:15.814Z"}
+{"message":"Get current position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:39:20.943Z"}
+{"message":"Unable to report the current position of bot Error: Invalid command issued\n    at Object.getCurrentPos (/home/vikas/project/astro/server/robot/robot_controller.js:155:13)\n    at router.get (/home/vikas/project/astro/server/robot/robot_api.js:50:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:39:20.950Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:39:57.184Z"}
+{"message":"Get current position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:40:17.550Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:41:48.718Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:41:51.728Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:42:08.036Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:42:15.979Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:42:30.713Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:42:40.846Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:42:48.547Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:43:20.610Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:43:33.760Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:44:01.929Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:44:22.227Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:44:34.136Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:44:38.940Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:45:02.380Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:45:05.083Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:45:07.729Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:45:13.863Z"}
+{"message":"Invalid coordinates for x","level":"error","timestamp":"2018-10-08T14:45:13.863Z"}
+{"message":"Unable to set the initial position and direction Error: Invalid coordinates for X\n    at Object.setPlaceAndDirection (/home/vikas/project/astro/server/robot/robot_controller.js:109:13)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:8:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:45:13.864Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:45:51.309Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:45:54.447Z"}
+{"message":"Invalid coordinates for x","level":"error","timestamp":"2018-10-08T14:45:54.448Z"}
+{"message":"Unable to set the initial position and direction Error: Invalid coordinates for X\n    at Object.setPlaceAndDirection (/home/vikas/project/astro/server/robot/robot_controller.js:109:13)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:8:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:45:54.450Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:46:11.701Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:46:14.769Z"}
+{"message":"Invalid coordinates for x","level":"error","timestamp":"2018-10-08T14:46:14.769Z"}
+{"message":"Unable to set the initial position and direction Error: Invalid coordinates for X\n    at Object.setPlaceAndDirection (/home/vikas/project/astro/server/robot/robot_controller.js:109:13)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:8:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:46:14.771Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:46:30.305Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:46:32.791Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:46:35.936Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:46:39.639Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:46:49.158Z"}
+{"message":"Invalid coordinates for x","level":"error","timestamp":"2018-10-08T14:46:49.158Z"}
+{"message":"Unable to set the initial position and direction Error: Invalid coordinates for X\n    at Object.setPlaceAndDirection (/home/vikas/project/astro/server/robot/robot_controller.js:109:13)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:8:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:46:49.159Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:46:57.950Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:47:02.872Z"}
+{"message":"Invalid coordinates for x","level":"error","timestamp":"2018-10-08T14:47:02.873Z"}
+{"message":"Unable to set the initial position and direction Error: Invalid coordinates for X\n    at Object.setPlaceAndDirection (/home/vikas/project/astro/server/robot/robot_controller.js:109:13)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:8:46)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:47:02.873Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:47:10.036Z"}
+{"message":"Get current position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:47:14.848Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:47:51.279Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:48:19.382Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:49:04.782Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:49:13.358Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:49:14.944Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:49:28.712Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:50:48.431Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:50:49.823Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:50:58.082Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:02.864Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:04.947Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:07.058Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:07.377Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:20.587Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:24.051Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:52.244Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:51:53.001Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:15.900Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:17.118Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:18.046Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:19.364Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:20.172Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:27.867Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:31.679Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:52:32.545Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:53:42.163Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:53:43.822Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:53:44.987Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:53:59.590Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:09.153Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:21.325Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:26.089Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:29.820Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:33.508Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:34.381Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:39.018Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:54:55.795Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:01.926Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:04.244Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:08.271Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:12.334Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:16.549Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:18.248Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:19.643Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:55:21.201Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:56:06.369Z"}
+{"message":"Unable to move the robot Error: Place not set. Please provide place values first\n    at Object.moveRobot (/home/vikas/project/astro/server/robot/robot_controller.js:140:33)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:28:43)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/home/vikas/project/astro/node_modules/express/lib/middleware/init.js:40:5)","level":"error","timestamp":"2018-10-08T14:56:06.370Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:56:11.146Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:56:13.509Z"}
+{"message":"Bot is moved to position 1,0","level":"info","timestamp":"2018-10-08T14:56:13.509Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:56:37.210Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:56:46.963Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T14:56:51.115Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:56:53.690Z"}
+{"message":"Bot is moved to position 0,1","level":"info","timestamp":"2018-10-08T14:56:53.690Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:56:59.813Z"}
+{"message":"Bot is moved to position 0,2","level":"info","timestamp":"2018-10-08T14:56:59.813Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:00.611Z"}
+{"message":"Bot is moved to position 0,3","level":"info","timestamp":"2018-10-08T14:57:00.611Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:01.079Z"}
+{"message":"Bot is moved to position 0,4","level":"info","timestamp":"2018-10-08T14:57:01.079Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:01.670Z"}
+{"message":"Bot is moved to position 0,5","level":"info","timestamp":"2018-10-08T14:57:01.670Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:02.304Z"}
+{"message":"Bot is moved to position 0,6","level":"info","timestamp":"2018-10-08T14:57:02.304Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:03.171Z"}
+{"message":"Bot is moved to position 0,7","level":"info","timestamp":"2018-10-08T14:57:03.171Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T14:57:03.670Z"}
+{"message":"Bot is moved to position 0,8","level":"info","timestamp":"2018-10-08T14:57:03.670Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T14:58:14.390Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:38:51.319Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T15:38:56.737Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:38:59.672Z"}
+{"message":"Bot is moved to position 0,1","level":"info","timestamp":"2018-10-08T15:38:59.673Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:39:00.527Z"}
+{"message":"Bot is moved to position 0,2","level":"info","timestamp":"2018-10-08T15:39:00.527Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:39:00.907Z"}
+{"message":"Bot is moved to position 0,3","level":"info","timestamp":"2018-10-08T15:39:00.908Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:39:01.267Z"}
+{"message":"Bot is moved to position 0,4","level":"info","timestamp":"2018-10-08T15:39:01.267Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:39:01.647Z"}
+{"message":"Bot is moved to position 0,5","level":"info","timestamp":"2018-10-08T15:39:01.647Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:39:02.274Z"}
+{"message":"Unable to move the robot Error: Y movement not possible\n    at getCoordinateChange (/home/vikas/project/astro/server/robot/robot_controller.js:53:11)\n    at Object.moveRobot (/home/vikas/project/astro/server/robot/robot_controller.js:145:9)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:28:43)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/index.js:275:10)","level":"error","timestamp":"2018-10-08T15:39:02.275Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:22.946Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:27.510Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:28.415Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:29.577Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:30.492Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:32.363Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:36.435Z"}
+{"message":"Bot is moved to position 0,4","level":"info","timestamp":"2018-10-08T15:40:36.435Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:37.381Z"}
+{"message":"Bot is moved to position 0,3","level":"info","timestamp":"2018-10-08T15:40:37.382Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:37.800Z"}
+{"message":"Bot is moved to position 0,2","level":"info","timestamp":"2018-10-08T15:40:37.801Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:40:38.114Z"}
+{"message":"Bot is moved to position 0,1","level":"info","timestamp":"2018-10-08T15:40:38.114Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:42:06.615Z"}
+{"message":"Get current position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:44:01.746Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T15:44:05.355Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:54:40.836Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:55:05.670Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:55:07.337Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:55:13.518Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:55:29.152Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T15:55:35.850Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:55:44.993Z"}
+{"message":"Bot is moved to position [object Object]","level":"info","timestamp":"2018-10-08T15:55:44.993Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:56:06.246Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:56:17.450Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:56:19.348Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T15:56:21.651Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T15:56:23.557Z"}
+{"message":"Bot is moved to position","level":"info","timestamp":"2018-10-08T15:56:23.558Z"}
+{"message":{"X":0,"Y":1,"direction":"NORTH"},"level":"info","timestamp":"2018-10-08T15:56:23.558Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:57:01.222Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:58:45.965Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:59:14.076Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:59:23.736Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T15:59:47.694Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:00.061Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:01.903Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:16.472Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:22.725Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:34.174Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:35.331Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:00:50.562Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:07.110Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:08.381Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:10.884Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:12.496Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:28.000Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:33.960Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:36.436Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:38.748Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:01:40.743Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:01:46.418Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:01:48.748Z"}
+{"message":"Unable to move the robot TypeError: Cannot read property 'length' of undefined\n    at moveBot (/home/vikas/project/astro/server/robot/robot_controller.js:22:16)\n    at getCoordinateChange (/home/vikas/project/astro/server/robot/robot_controller.js:72:3)\n    at Object.moveRobot (/home/vikas/project/astro/server/robot/robot_controller.js:157:9)\n    at router.post (/home/vikas/project/astro/server/robot/robot_api.js:28:43)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/vikas/project/astro/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/vikas/project/astro/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/vikas/project/astro/node_modules/express/lib/router/layer.js:95:5)\n    at /home/vikas/project/astro/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/vikas/project/astro/node_modules/express/lib/router/index.js:335:12)","level":"error","timestamp":"2018-10-08T16:01:48.749Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:02:17.437Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:02:20.882Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:02:24.993Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:02:27.095Z"}
+{"message":"Bot is moved to position","level":"info","timestamp":"2018-10-08T16:02:27.095Z"}
+{"message":{"X":0,"Y":1,"direction":"NORTH"},"level":"info","timestamp":"2018-10-08T16:02:27.095Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:02:31.345Z"}
+{"message":"Bot is moved to position","level":"info","timestamp":"2018-10-08T16:02:31.345Z"}
+{"message":{"X":0,"Y":2,"direction":"NORTH"},"level":"info","timestamp":"2018-10-08T16:02:31.346Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:02:35.152Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:02:42.876Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:02:49.674Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:02:51.016Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:02:53.800Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:02:56.495Z"}
+{"message":"Bot is moved to position","level":"info","timestamp":"2018-10-08T16:02:56.495Z"}
+{"message":{"X":0,"Y":1,"direction":"NORTH"},"level":"info","timestamp":"2018-10-08T16:02:56.495Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:03:01.663Z"}
+{"message":"Bot is moved to position","level":"info","timestamp":"2018-10-08T16:03:01.663Z"}
+{"message":{"X":0,"Y":2,"direction":"NORTH"},"level":"info","timestamp":"2018-10-08T16:03:01.663Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:03:19.581Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:03:20.985Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:03:40.311Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:03:44.955Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:03:45.868Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:03:49.032Z"}
+{"message":"Set place and direction is called [object Object]","level":"info","timestamp":"2018-10-08T16:03:50.053Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:03:52.462Z"}
+{"message":"Set or Print new position is called with [object Object]","level":"info","timestamp":"2018-10-08T16:03:53.316Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:04:09.733Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:04:11.176Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:04:18.039Z"}
+{"message":"Server running at port: 8080","level":"info","timestamp":"2018-10-08T16:04:22.744Z"}
