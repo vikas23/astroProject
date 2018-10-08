@@ -1,6 +1,11 @@
 *THE SOLUTION IS BASED ON THE ASSUMPTION THAT (0, 0) IS THE SOUTH WEST MOST CORNER AND HENCE ONLY POSITIVE QUADRANT MOVEMENT IS ALLOWED.*
 ===
 
+Usage
+===
+    - npm i
+    - node app.js
+
 API and Usage
 ===
 
@@ -15,6 +20,7 @@ API and Usage
     	"y": 0,
     	"direction": "NORTH"
         }'
+        
 - **/report**: Report the current position for the bot.
 
       curl -X POST \
